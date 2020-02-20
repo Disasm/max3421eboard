@@ -554,7 +554,7 @@ $EndComp
 Wire Wire Line
 	1750 1550 1750 1400
 $Comp
-L Matti:STMPS2151STR U3
+L max3421eboard-rescue:STMPS2151STR-Matti U3
 U 1 1 5ED2A525
 P 2400 1850
 F 0 "U3" H 2400 2215 50  0000 C CNN
@@ -610,7 +610,7 @@ Wire Wire Line
 Wire Wire Line
 	2950 1750 3700 1750
 $Comp
-L Matti:VL #PWR0117
+L max3421eboard-rescue:VL-Matti #PWR0117
 U 1 1 5F0C91BD
 P 7850 1250
 F 0 "#PWR0117" H 7850 1100 50  0001 C CNN
@@ -621,7 +621,7 @@ F 3 "" H 7850 1250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Matti:VL #PWR0118
+L max3421eboard-rescue:VL-Matti #PWR0118
 U 1 1 5F0CD619
 P 9000 1250
 F 0 "#PWR0118" H 9000 1100 50  0001 C CNN
@@ -632,7 +632,7 @@ F 3 "" H 9000 1250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Matti:VL #PWR0125
+L max3421eboard-rescue:VL-Matti #PWR0125
 U 1 1 5F0CF343
 P 6000 1350
 F 0 "#PWR0125" H 6000 1200 50  0001 C CNN
@@ -644,7 +644,7 @@ F 3 "" H 6000 1350 50  0001 C CNN
 $EndComp
 Connection ~ 6000 1350
 $Comp
-L Matti:VL #PWR0126
+L max3421eboard-rescue:VL-Matti #PWR0126
 U 1 1 5F0D8675
 P 6400 3900
 F 0 "#PWR0126" H 6400 3750 50  0001 C CNN
@@ -663,7 +663,7 @@ X+
 Text Label 5100 2400 0    50   ~ 0
 X-
 $Comp
-L Matti:VL #PWR0114
+L max3421eboard-rescue:VL-Matti #PWR0114
 U 1 1 5F28C84A
 P 8200 3650
 F 0 "#PWR0114" H 8200 3500 50  0001 C CNN
